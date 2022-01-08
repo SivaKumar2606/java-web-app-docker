@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To SivaKumar DevOps Trainings..</h2>
+			<h2>Welcome To Siva Kumar Jenkins Trainings..</h2>
 			<h3>Contact @ +91-888888889 ,+91-89999999</h3>
 		</div>	
 	</div>
